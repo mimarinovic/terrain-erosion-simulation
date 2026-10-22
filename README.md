@@ -26,7 +26,7 @@ Main scripts:
 
 ## Documentation
 - [Bachelor's thesis (PDF, Croatian)](docs/thesis.pdf)
-- [Presentation (PDF)](docs/presentation.pdf) *(if applicable)*
+- [Presentation (PDF)](docs/presentation.pdf)
 
 ## Author
 Mislav Marinović
